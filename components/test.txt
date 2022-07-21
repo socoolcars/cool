@@ -1,0 +1,7 @@
+ <p className="text-sm sm:text-base text-gray-700 dark:text-white">
+                Our design philosophy is based on 3D modelling state of the art concept cars, while remaining faithful to every minor detail. 
+                Every car is compatible with 360° visualization using Augmented Reality technology, to give you an immersive and life-like experience with your favorite NFT car.
+
+                   <p> Dimension of reality that makes change possible and understandable. 
+                    An indefinite and homogeneous environment in which natural events and car existence take place.
+                </p></p>
