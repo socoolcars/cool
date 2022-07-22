@@ -8,6 +8,9 @@ export default function Home() {
   return (
 
    <>
+    <Socool/>
+   <Augmented/>
+   <Banner/>
    <Banner/>
     
    
@@ -17,9 +20,7 @@ export default function Home() {
         <meta name="So Cool Cars" content="So Cool Cars" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Socool/>
-   <Augmented/>
-   <Banner/>
+     
    </>
   )
 }
