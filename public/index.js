@@ -4,13 +4,11 @@ import Banner from './components/banner.js'
 import Socool from './components/socool.js'
 import Augmented from './components/augmented.js'
 
-export default function Home() {
+ function Home() {
   return (
 
    <>
-   <Socool/>
-   <Augmented/>
-   <Banner/>
+   
     
    
    
@@ -19,9 +17,12 @@ export default function Home() {
         <meta name="So Cool Cars" content="So Cool Cars" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-   
+      <Socool/>
+   <Augmented/>
+   <Banner/>
    </>
    
    
   ) 
 }
+export default Home
